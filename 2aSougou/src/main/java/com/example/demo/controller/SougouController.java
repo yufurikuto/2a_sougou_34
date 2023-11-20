@@ -8,4 +8,6 @@ public class SougouController {
 		//murata dayo
 	}
 
+	//takeda
+
 }
